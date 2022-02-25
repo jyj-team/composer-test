@@ -2,6 +2,7 @@
     "name": "jyj-team/composer-test-by-jyj",
     "type": "library",
     "description": "composer install test",
+    "minimum-stability": "stable",
     "keywords": ["gemiso","core"],
     "homepage": "https://yourcompany.com",
     "license": "MIT",
